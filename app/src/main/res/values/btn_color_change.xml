@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- colors.xml -->
+
+<resources>
+    <color name="default_button_color">#9c9c9c</color>
+    <color name="clicked_button_color">#BEE455</color>
+</resources>
